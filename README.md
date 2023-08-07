@@ -1,5 +1,5 @@
 # ME4031W
-This Repo holds the LABVIEW VI file used by Amit Manicka, Calieb Prunty, and Huxley Nyabwari for experimentation in Summer 2023 of ME 4031W, Basic Measurements at the University of Minnesota Twin Cities
+This Repo holds the LABVIEW VI file used by Amit Manicka, Calieb Prunty, and Huxley Nyabwari for experimentation of the Final Project in Summer 2023 of ME 4031W, Basic Measurements at the University of Minnesota Twin Cities
 
 ## How to use
 The file assumes you have NI LABVIEW Packages installed in the Spring 2021 Version:
